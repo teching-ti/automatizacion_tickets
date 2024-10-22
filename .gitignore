@@ -1,2 +1,5 @@
 venv/
 info.txt
+build/
+dist/
+Itop_ticketsAuto.spec
